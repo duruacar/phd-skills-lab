@@ -45,9 +45,7 @@
           ]
         }
       ],
-      "source": [
-        "print(\"Duru\", \"26 September 2026\")"
-      ]
+      print("Duru", "26 September 2026")
     }
   ]
 }
